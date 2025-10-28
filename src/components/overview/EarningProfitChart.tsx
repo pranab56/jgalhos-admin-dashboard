@@ -33,6 +33,9 @@ const CustomTooltip = ({ active, payload }: CustomTooltipProps) => {
   return null;
 };
 
+
+
+
 const EarningProfitChart = () => {
   const [selectedYear, setSelectedYear] = useState<string>('2024');
 
