@@ -87,6 +87,7 @@ const RestaurantList: React.FC<RestaurantListProps> = ({
     console.log('Delete restaurant:', restaurant);
   };
 
+
   return (
     <Card className="border-0 shadow-sm bg-white p-0">
       <CardContent className="p-6">
